@@ -2,63 +2,6 @@
 
 The purpose of this project is to implement important JavaScript algorithms using JavaScript code, then build simple applications by combining 2-3 algorithms to create practical solutions. In this project, we will build 10 practical applications.
 
-## List of Important JavaScript Algorithms
-
-1. **Sorting Algorithms**
-    - Bubble Sort
-    - Merge Sort
-    - Quick Sort
-    - Insertion Sort
-
-2. **Searching Algorithms**
-    - Linear Search
-    - Binary Search
-
-3. **String Manipulation**
-    - Palindrome Checker
-    - Anagram Checker
-    - Longest Substring Without Repeating Characters
-
-4. **Mathematical Algorithms**
-    - Fibonacci Sequence
-    - Prime Number Checker
-    - Factorial Calculation
-    - Greatest Common Divisor (GCD)
-    - Least Common Multiple (LCM)
-
-5. **Array Manipulation**
-    - Two Sum Problem
-    - Maximum Subarray (Kadane's Algorithm)
-    - Array Flattening
-
-6. **Recursion**
-    - Tower of Hanoi
-    - Permutations of a String
-    - N-Queens Problem
-
-7. **Graph Algorithms**
-    - Depth First Search (DFS)
-    - Breadth First Search (BFS)
-    - Dijkstra's Algorithm
-
-8. **Dynamic Programming**
-    - Longest Common Subsequence
-    - Knapsack Problem
-    - Coin Change Problem
-
-9. **Data Structures**
-    - Stack Implementation
-    - Queue Implementation
-    - Linked List Operations
-    - Binary Search Tree (BST) Operations
-
-10. **Miscellaneous**
-     - Debouncing and Throttling
-     - Memoization
-     - Event Loop Demonstration
-
-These algorithms will serve as the foundation for building practical applications.
-
 # 🎓 Advanced JavaScript Portfolio Projects
 
 This graduate-level portfolio contains 10 interactive applications that apply 2–3 core JavaScript algorithms per project. Each app includes:
@@ -171,4 +114,63 @@ Each folder contains:
 - `/styled.html` and `/style.css` for UI version  
 
 These projects highlight practical algorithm integration, interaction design, and frontend architecture thinking. Perfect for academic submissions or technical interviews.
+
+## List of Important JavaScript Algorithms
+
+1. **Sorting Algorithms**
+    - Bubble Sort
+    - Merge Sort
+    - Quick Sort
+    - Insertion Sort
+
+2. **Searching Algorithms**
+    - Linear Search
+    - Binary Search
+
+3. **String Manipulation**
+    - Palindrome Checker
+    - Anagram Checker
+    - Longest Substring Without Repeating Characters
+
+4. **Mathematical Algorithms**
+    - Fibonacci Sequence
+    - Prime Number Checker
+    - Factorial Calculation
+    - Greatest Common Divisor (GCD)
+    - Least Common Multiple (LCM)
+
+5. **Array Manipulation**
+    - Two Sum Problem
+    - Maximum Subarray (Kadane's Algorithm)
+    - Array Flattening
+
+6. **Recursion**
+    - Tower of Hanoi
+    - Permutations of a String
+    - N-Queens Problem
+
+7. **Graph Algorithms**
+    - Depth First Search (DFS)
+    - Breadth First Search (BFS)
+    - Dijkstra's Algorithm
+
+8. **Dynamic Programming**
+    - Longest Common Subsequence
+    - Knapsack Problem
+    - Coin Change Problem
+
+9. **Data Structures**
+    - Stack Implementation
+    - Queue Implementation
+    - Linked List Operations
+    - Binary Search Tree (BST) Operations
+
+10. **Miscellaneous**
+     - Debouncing and Throttling
+     - Memoization
+     - Event Loop Demonstration
+
+These algorithms will serve as the foundation for building practical applications.
+
+
 # Javascript_Miniprojects
