@@ -172,3 +172,4 @@ Each folder contains:
 
 These projects highlight practical algorithm integration, interaction design, and frontend architecture thinking. Perfect for academic submissions or technical interviews.
 # Javascript_Miniprojects
+# Javascript_Miniprojects
