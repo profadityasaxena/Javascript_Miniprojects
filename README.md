@@ -7,6 +7,7 @@ The purpose of this project is to implement important JavaScript algorithms usin
 This graduate-level portfolio contains 10 interactive applications that apply 2–3 core JavaScript algorithms per project. Each app includes:
 - `index.html` + `app.js`: Core logic (unstyled)
 - `styled.html`: Same app with CSS enhancements
+- `style.css`: Style CSS
 - `README.md`: Explanation of algorithms and app usage
 
 ---
